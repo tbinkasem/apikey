@@ -11,5 +11,8 @@ npm install --save @ionic-native/youtube-video-player
 
 UCZZPgUIorPao48a1tBYSDgg
 
+https://github.com/tbinkasem/apikey
+
+
 
 
