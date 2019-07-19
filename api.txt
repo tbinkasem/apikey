@@ -1,0 +1,15 @@
+https://console.developers.google.com/
+
+ionic g page <name>
+ionic g provider <name>
+
+ionic cordova plugin add cordova-plugin-youtube-video-player
+
+npm install --save @ionic-native/youtube-video-player
+
+<preference name="YouTubeDataApiKey" value="[YOUR YOUTUBE API]" />
+
+UCZZPgUIorPao48a1tBYSDgg
+
+
+
